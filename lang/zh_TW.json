@@ -1,4 +1,9 @@
 {
+    "\"": "」",
+    "\", affiliation: \"": "」、所屬宿舍：「",
+    "\", character voice: \"": "」、聲優：「",
+    "\", data: \"": "」、資料：「",
+    "\", mobile suit: \"": "」、機體：「",
     "A second-year student in the piloting department, who transferred to the school from Mercury. Suletta is timid and somewhat lacks communication skills. She is the pilot of the Gundam Aerial developed on Mercury.": "來自水星的轉學生，駕駛科2年級生。性格內向，有些不擅與人溝通交流。為水星開發的MS，風靈鋼彈的駕駛員。",
     "An adopted child of the CEO of Grassley Defense Systems, one of the group's three branches. A third-year student in the piloting department who leads Grassley House. Shaddiq is a smooth-talking ladies' man with a carefree manner. Although still a student Shaddiq has shown his skill in business too, he is a candidate for next generation executive.": "集團內三巨頭之一的葛雷斯利公司執行長的養子。駕駛科3年級生。負責統率葛雷斯利宿舍，愛拈花惹草且舉止總是難以捉摸的美少年。雖然還是學生，但已為公司創下多項功績，為下個世代集團幹部的候補人才。",
     "An attractive and academically distinguished second-year student in the management strategy department. Miorine is the only daughter of Delling Rembran, the president of the Benerit Group and chairman of the school's board. She has a strong rebellious feeling towards her father.": "容貌美麗，成績出色的經營戰略科2年級生。為學園理事長，貝納里特集團總裁戴林格・連布蘭的獨生女。對自己的父親懷有強烈的反抗心。",
@@ -18,8 +23,10 @@
     "Miorine Rembran": "米奧琳涅・連布蘭",
     "Natsuki Hanae": "花江夏樹",
     "Peil House": "佩爾宿舍",
+    "Query name:": "查詢姓名：",
     "Shaddiq Zenelli": "沙迪克・澤內利",
     "Suletta Mercury": "蘇萊塔・墨丘利",
+    "The name that matches the first data of the query name: \"": "符合查詢姓名第一筆資料的姓名：「",
     "The top pilot backed by Peil Technologies, one of the group's three branches. A third-year student in the piloting department. Elan is a taciturn and solitary person, who doesn't open his heart to anyone in school. He has an interest to Suletta": "集團內三巨頭之一的佩爾公司所擁立的駕駛員。駕駛科3年級生。為佩爾宿舍的領袖人物，但個性孤高，不對學園的任何人敞開心房。對蘇萊塔的事感興趣。",
     "Yohei Azakami": "阿座上洋平"
 }
