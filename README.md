@@ -1,4 +1,4 @@
-# Laravel 11 Eloquent 模型陣列驅動
+# Laravel 12 Eloquent 模型陣列驅動
 
 引入 calebporzio 的 sushi 套件來擴增 Eloquent 模型陣列驅動，允許從資料庫以外的資料來源建立 Eloquent 模型來查詢提供的已寫死陣列資料。
 
@@ -17,11 +17,15 @@ $ composer install
 ```sh
 $ php artisan key:generate
 ```
+- 執行 __Artisan__ 指令的 __migrate__ 來執行所有未完成的遷移。
+```sh
+$ php artisan migrate
+```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 - 你可以經由 `/users/{姓名}` 來進行使用者查詢。
 
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/jIscePU.png)
+![](https://i.imgur.com/QBalAVB.png)
 > 可以從已寫死陣列中取得資料
